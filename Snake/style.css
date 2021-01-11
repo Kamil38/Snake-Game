@@ -1,0 +1,12 @@
+.kamil{
+    float: left;
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 160%;
+}
+
+.uitleg{
+    float: right;
+    margin-top: 225px;
+    margin-right: 100px;
+}
